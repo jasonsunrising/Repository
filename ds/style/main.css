@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*公用*/
+.comWith{width:1000px; margin-left:auto; margin-right:auto;}
+.leftArea{ float:left}
+.rightArea{float:right} 
+ 
+/*topBar*/
+.topBar{height:31px; background-color:#F7F7F7; line-height:31px;}
+.collection{background:url(../images/icon/1.%E9%A6%96%E9%A1%B5_r2_c2.jpg) left center no-repeat; padding-left:19px; font-weight:bold; }
+.topBar a:hover{ color:red;}
+/*logo*/
+.logoBar{height:85px; background-color:#1D7AD9;}
+.logo{ padding-left:41px; padding-top:12px;}
+.search_box{width:430px; padding-top:23px; padding-left:185px;}
+/*上下加了5像素 整体的宽度要减10*/
+/*.search_text{width:350px; height:14px; line-height:14px; background:#FFF; float:left; padding:11px 5px 10px;}*/
+.search_text{width:350px; height:35px; line-height:35px\9/*css hack \9表示所有ie浏览器*/; padding:0 5px; background-color:#FFF;float:left;} 
+.search_btn{width:70px; height:35px; font-size:14px; font-family:"微软雅黑" ; background-color:#FF8C00; float:left}
+/*购物车*/
+.shopCar{width:147px; height:35px; background-color:#FF8C00; margin-top:23px;font-family:"微软雅黑";}
+.shopText{ width:87px;height:100%;font-size:14px;  line-height:35px; color:#FFF;  border-right:#E27A00 solid 1px; background: url(../images/icon/66.jpg)  10px center;/*自行添加 不加不行啊 */ background-repeat:no-repeat; text-indent:40px;}
+.shopNum{width:56px; height:35px; border-left:#FF8800 solid 1px; font:14px/35px "微软雅黑"; color:#FFF; background: url(../images/icon/1.%E9%A6%96%E9%A1%B5_r9_c15.jpg) 33px center no-repeat;text-indent:20px;}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
